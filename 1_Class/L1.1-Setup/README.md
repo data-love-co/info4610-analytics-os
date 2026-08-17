@@ -1,11 +1,20 @@
 # L1.1 — Setup and Data
 
-**Lesson 1, first block.** Get the workspace running and get your data (or the practice data) in
+**Lesson 1 (6:00–7:50 PM), first block.** Get the workspace running and get your data (or the practice data) in
 place.
 
 ## What you do
 
-1. **Clone this repo** and open the folder in Claude Code.
+1. **Have your assistant fetch the workspace.** You do not download anything yourself. Open Claude
+   Code (or whichever tool you picked) and paste this in:
+
+   > Clone https://github.com/data-love-co/info4610-analytics-os into a folder called `info4610`
+   > directly inside my user folder, then open it and follow the setup.
+
+   **Where it lands matters.** Straight in your user folder (`C:\Users\<you>\info4610` on Windows,
+   `~/info4610` on Mac), *not* Documents, Desktop, or anything under OneDrive. Synced folders
+   corrupt the hidden `.git` folder, and deep paths hit the Windows filename limit.
+
 2. **Say "get me started."** The `analyst-bootstrap` skill detects your OS, creates `CLAUDE.md`,
    checks prerequisites, then runs a short interview that builds your profile (`0_User/`) and your
    work context (`0_Org/`). Five to ten minutes.

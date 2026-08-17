@@ -1,8 +1,8 @@
 # L2.1 — Build Your Use Case
 
-**Lesson 2, first block.** About 90 minutes. Build the thing.
+**Lesson 2 (6:00–7:50 PM), first block.** About 60 minutes. Build the thing.
 
-You arrive with a framed decision and audited data. That's what makes ninety minutes enough.
+You arrive with a framed decision and audited data. That's what makes an hour enough.
 
 ## What you do
 

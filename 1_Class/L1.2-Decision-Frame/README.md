@@ -1,6 +1,6 @@
 # L1.2 — Frame the Decision
 
-**Lesson 1, second block.** About 30 minutes. The most important thirty minutes of the two sessions,
+**Lesson 1 (6:00–7:50 PM), second block.** About 30 minutes. The most important thirty minutes of the two sessions,
 and the ones that feel least like progress while you're in them.
 
 ## The idea

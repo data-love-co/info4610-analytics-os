@@ -1,6 +1,6 @@
 # L2.2 — The Decision Memo
 
-**Lesson 2, second block.** About 30 minutes. Turn the analysis into something an executive will act
+**Lesson 2 (6:00–7:50 PM), second block.** About 25 minutes. Turn the analysis into something an executive will act
 on.
 
 ## The idea

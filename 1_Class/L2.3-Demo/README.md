@@ -1,6 +1,13 @@
 # L2.3 — Demo
 
-**Lesson 2, final block.** Five minutes each. Show what you built and what you learned.
+**Lesson 2 (6:00–7:50 PM), final block, about 25 minutes.** Show what you built and what you
+learned.
+
+> **On timing.** The block holds roughly five full demos. With a larger group your instructor will
+> run one of these instead: volunteers only, two-minute lightning rounds, or table groups where each
+> table sends one. **Prepare the full five minutes regardless.** Building the four beats is the
+> exercise, and a five-minute structure cuts down to two cleanly. A two-minute structure does not
+> expand.
 
 ## The structure
 

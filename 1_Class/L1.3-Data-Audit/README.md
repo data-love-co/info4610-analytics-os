@@ -1,6 +1,6 @@
 # L1.3 — Audit the Data
 
-**Lesson 1, third block.** About 45 minutes. Find out whether your data can carry the weight you're
+**Lesson 1 (6:00–7:50 PM), third block.** About 45 minutes. Find out whether your data can carry the weight you're
 about to put on it.
 
 ## The idea

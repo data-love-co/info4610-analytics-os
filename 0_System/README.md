@@ -11,6 +11,7 @@ and the skills drive everything.
 | `scripts/scan-skills.py` | Regenerates `.agents/skills/skills.json` — a slim `{name, path, enabled}` registry — from the SKILL.md files on disk. Run after adding or removing a skill: `python 0_System/scripts/scan-skills.py` |
 | `scripts/parse-sources.py` | Tiered `raw/ → processed/` converter (the `ingest-data` engine). Auto-uses the best converter installed (Docling → MarkItDown → built-in text/CSV), mirrors subfolders, and **recommends installs but never runs them**. `--plan` dry-runs the analysis; `--force` reconverts |
 | `scripts/make-sample-data.py` | Generates the deliberately messy practice datasets in `5_Library/sample-data/`. Fixed seed, standard library only. `--clean` removes them |
+| `scripts/strip-notes.py` | Copies a `.pptx` with speaker notes removed. The instructor decks keep their notes; the copies in `1_Class/Slides/` don't. Run it after editing a deck to refresh the repo copy: `python 0_System/scripts/strip-notes.py "<source.pptx>" 1_Class/Slides/` |
 
 ## How the pieces fit
 

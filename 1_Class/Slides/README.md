@@ -7,16 +7,12 @@ The decks used in the two sessions.
 | `INFO4610-Session1.pptx` | Lesson 1 — frame the decision, audit the data | 18 |
 | `INFO4610-Session2.pptx` | Lesson 2 — build it, write the memo, demo it | 18 |
 
-Both are PowerPoint files. Download and open them, or view them on GitHub by clicking the file name
-(GitHub will not preview a `.pptx`, so use the **Download** button on the file page).
+Both are PowerPoint files. GitHub will not preview a `.pptx`, so use the **Download** button on the
+file page.
 
-## They include speaker notes
-
-Every slide has notes attached, which is where the reasoning behind the slide lives — why a
-particular question is hard, what usually goes wrong at that point, what to watch for. If you are
-reviewing after class, the notes are often more useful than the slides.
-
-In PowerPoint: **View → Notes Page**, or the **Notes** button below the slide.
+These are the presented slides. The reasoning behind each one — why a question is hard, what usually
+goes wrong at that point — is in the session folders and the method library linked below, which go
+further than the slides do.
 
 ## If you missed a session
 

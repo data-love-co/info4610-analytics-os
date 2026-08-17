@@ -3,6 +3,10 @@
 A cloneable analytics workspace for the AI use-case sessions in the Daniels College of Business
 Professional MBA. You run both sessions inside this repo — and you keep it after.
 
+> ### 📘 [Read the student guide first →](https://data-love-co.github.io/info4610-analytics-os/)
+> Before class, the five stages, the ten use cases, troubleshooting, and plain-language definitions.
+> Works on your phone. Nothing to install.
+
 It's an **agentic operating system**: a folder of markdown files, conventions, and skills that an
 AI agent (Claude) reads and works in. You point it at a real decision from your own job, load
 whatever data you're allowed to use, and run the chain — frame the decision → audit the data →

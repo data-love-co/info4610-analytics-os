@@ -12,6 +12,7 @@ Each session subfolder holds:
 
 | Folder | Block | Exercise | Skill |
 |---|---|---|---|
+| `Slides/` | both | The decks, with speaker notes | — |
 | `L1.1-Setup/` | Lesson 1 | Set up the workspace, load data | `analyst-bootstrap`, `ingest-data` |
 | `L1.2-Decision-Frame/` | Lesson 1 | Frame the decision | `frame-the-decision` |
 | `L1.3-Data-Audit/` | Lesson 1 | Audit the data, log the cleaning | `data-audit` |

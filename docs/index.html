@@ -117,15 +117,23 @@ img { max-width: 100%; }
     text-transform: uppercase; opacity: .9; margin: 0;
   }
 
-  /* ---------- shell ---------- */
-  .shell { max-width: 1080px; margin: 0 auto; padding: 0 24px 96px; display: grid; gap: 44px; grid-template-columns: 1fr; }
+  /* ---------- shell + side rail ----------
+     ORDER IS LOAD-BEARING. The rail's `display: none` must be declared BEFORE
+     the media query that turns it back on. Both selectors have equal
+     specificity, so if the `none` came later it would win at every width - the
+     rail would drop out of the grid, and <main> would land in the narrow
+     196px first column instead of the wide one. */
+  .shell {
+    max-width: 1080px; margin: 0 auto; padding: 0 24px 96px;
+    display: grid; gap: 44px;
+    grid-template-columns: minmax(0, 1fr);
+  }
+  .rail { display: none; position: sticky; top: 20px; align-self: start; padding-top: 44px; }
+
   @media (min-width: 940px) {
-    .shell { grid-template-columns: 196px 1fr; padding-top: 8px; gap: 56px; }
+    .shell { grid-template-columns: 196px minmax(0, 1fr); padding-top: 8px; gap: 56px; }
     .rail { display: block; }
   }
-
-  /* ---------- side rail ---------- */
-  .rail { display: none; position: sticky; top: 20px; align-self: start; padding-top: 44px; }
   .rail-title {
     font-family: var(--mono); font-size: .66rem; letter-spacing: .1em; text-transform: uppercase;
     color: var(--ink-3); margin: 0 0 12px;

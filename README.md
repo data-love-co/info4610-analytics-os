@@ -41,6 +41,20 @@ Two goals, in order:
 
 Then say **"help me frame my decision"** and the chain takes it from there.
 
+### Not using Claude Code?
+
+You don't have to. The instruction file at the root is `AGENTS.md`, an open standard read natively
+by **Copilot, Codex, Cursor, Gemini CLI, Windsurf, Zed** and twenty-odd other agents, so the full
+chain runs on any of them. GitHub Copilot's agent mode is **free for verified students**.
+
+On a tool that can't read your folder at all (ChatGPT, Gemini, Claude on the web), every one of the
+ten use cases still works. You upload the data file and paste the stage prompt from
+**[Portable-Prompts.md](5_Library/build-surfaces/Portable-Prompts.md)**, carrying context between
+stages by hand.
+
+Full compatibility matrix, including what each tier of tool can and can't do:
+**[Using-Another-Assistant.md](5_Library/build-surfaces/Using-Another-Assistant.md)**.
+
 ## The two sessions
 
 | Session | What happens |

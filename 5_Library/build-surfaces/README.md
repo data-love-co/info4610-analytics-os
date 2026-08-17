@@ -1,7 +1,15 @@
 # build-surfaces/ — Where to Build It
 
-Start with **[Choosing-Your-Surface.md](Choosing-Your-Surface.md)** — the four questions and the
-routing table.
+Two different questions live here.
+
+**"Which assistant am I running?"** → **[Using-Another-Assistant.md](Using-Another-Assistant.md)**.
+This workspace is built for Claude Code, but `AGENTS.md` is an open standard read by Copilot,
+Codex, Cursor, Gemini CLI and twenty-odd other tools, so the whole chain runs on those too.
+ChatGPT and other upload-and-analyze tools handle all ten use cases with a bit more manual
+carrying, using **[Portable-Prompts.md](Portable-Prompts.md)**. Copilot is free for students.
+
+**"Where do I build the thing I'm making?"** → **[Choosing-Your-Surface.md](Choosing-Your-Surface.md)**,
+the four questions and the routing table.
 
 The `tools/` folder has a one-page note on each surface: what it's for, what it costs, how to start,
 and what to watch out for.

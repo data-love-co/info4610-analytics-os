@@ -40,6 +40,19 @@ pedagogically.
 - Something readable is in `5_Library/sources/processed/`, or you know which sample file you're
   using
 
+## Using something other than Claude Code
+
+Fine. Nobody is blocked, and the whole thing is plain markdown and CSV.
+
+| You have | What you get |
+|---|---|
+| **Copilot agent mode, Codex, Cursor, Gemini CLI, Windsurf, Zed** | Everything. They read `AGENTS.md` natively, same as Claude Code. **Copilot is free for verified students** |
+| **ChatGPT Plus, Gemini, Claude on the web** | All ten use cases. Upload the data file, paste the stage prompt from `5_Library/build-surfaces/Portable-Prompts.md`, carry context between stages yourself |
+| **A free chat tool, no code execution** | Decision framing, meeting notes, feedback synthesis, the memo, and the knowledge assistant. Not the numeric ones, because a tool that can't run code shouldn't be trusted with a number you'll present |
+
+Full detail, including how to get Copilot free with your university email:
+`5_Library/build-surfaces/Using-Another-Assistant.md`.
+
 ## When something doesn't install
 
 Work laptops block things. None of it stops you:

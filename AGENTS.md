@@ -116,7 +116,12 @@ is never a dead end: skills recover with you (offer to ingest or gather it, then
 ## Conventions
 
 - `AGENTS.md` (this file) is the source of truth for agent instructions; `CLAUDE.md` is a link
-  to it created at bootstrap — never hand-edit `CLAUDE.md` directly
+  to it created at bootstrap — never hand-edit `CLAUDE.md` directly. This is deliberate: `AGENTS.md`
+  is an open standard read natively by Copilot, Codex, Cursor, Gemini CLI and many other agents, so
+  the workspace isn't a bet on one vendor. If you're an agent other than Claude Code and the skills
+  in `.agents/skills/` aren't auto-discovered, read `.agents/skills/find-skills/SKILL.md` and follow
+  it — everything else behaves as documented. For users on a tool that can't read this folder at
+  all, `5_Library/build-surfaces/Portable-Prompts.md` carries the chain
 - Build folders in `4_Build_Projects/` use `YYYY.MM Short Name` naming
   (e.g. `2026.08 Regional Staffing Model`)
 - Skills are bucketed under `.agents/skills/`: use `find-skills` to locate the right one;

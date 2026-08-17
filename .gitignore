@@ -1,0 +1,50 @@
+# OS
+.DS_Store
+.AppleDouble
+Thumbs.db
+desktop.ini
+
+# Secrets — never commit
+.env
+.env.*
+
+# Generated from AGENTS.md by setup — regenerate, don't edit
+CLAUDE.md
+
+# Raw data — any format, possibly confidential; stays on your machine.
+# The processed/ folder IS tracked: check it before you push.
+5_Library/sources/raw/*
+!5_Library/sources/raw/.gitkeep
+
+# Your own work data, wherever it lands. Add your own patterns here.
+*.private.csv
+*.private.xlsx
+**/private/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Node
+node_modules/
+
+# Editor / tool state — local
+.obsidian/
+.vscode/
+.cursor/
+.idea/
+
+# AI assistant local state — personal, do not commit
+.claude/*
+!.claude/settings.json
+
+# Local scratch
+0_System/dev/
+
+# Build artifacts
+**/_build/
+*.tmp
+*.log

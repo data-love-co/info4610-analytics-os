@@ -1,0 +1,96 @@
+{
+  "version": "2",
+  "_note": "Slim state registry — enabled flags only. Source of truth for what each skill is and when it fires = the SKILL.md frontmatter under .agents/skills/. Regenerate with 0_System/scripts/scan-skills.py. Do not hand-edit.",
+  "skills": [
+    {
+      "name": "analyst-bootstrap",
+      "path": "daniels/1-analyst-bootstrap/SKILL.md",
+      "enabled": true
+    },
+    {
+      "name": "feedback-synthesizer",
+      "path": "daniels/10-feedback-synthesizer/SKILL.md",
+      "enabled": true
+    },
+    {
+      "name": "meeting-to-actions",
+      "path": "daniels/11-meeting-to-actions/SKILL.md",
+      "enabled": true
+    },
+    {
+      "name": "knowledge-assistant",
+      "path": "daniels/12-knowledge-assistant/SKILL.md",
+      "enabled": true
+    },
+    {
+      "name": "decision-memo",
+      "path": "daniels/13-decision-memo/SKILL.md",
+      "enabled": true
+    },
+    {
+      "name": "build-and-ship",
+      "path": "daniels/14-build-and-ship/SKILL.md",
+      "enabled": true
+    },
+    {
+      "name": "ingest-data",
+      "path": "daniels/2-ingest-data/SKILL.md",
+      "enabled": true
+    },
+    {
+      "name": "frame-the-decision",
+      "path": "daniels/3-frame-the-decision/SKILL.md",
+      "enabled": true
+    },
+    {
+      "name": "data-audit",
+      "path": "daniels/4-data-audit/SKILL.md",
+      "enabled": true
+    },
+    {
+      "name": "kpi-dashboard",
+      "path": "daniels/5-kpi-dashboard/SKILL.md",
+      "enabled": true
+    },
+    {
+      "name": "scenario-calculator",
+      "path": "daniels/6-scenario-calculator/SKILL.md",
+      "enabled": true
+    },
+    {
+      "name": "forecast",
+      "path": "daniels/7-forecast/SKILL.md",
+      "enabled": true
+    },
+    {
+      "name": "risk-scorer",
+      "path": "daniels/8-risk-scorer/SKILL.md",
+      "enabled": true
+    },
+    {
+      "name": "ab-test-readout",
+      "path": "daniels/9-ab-test-readout/SKILL.md",
+      "enabled": true
+    },
+    {
+      "name": "util_get_inputs",
+      "path": "daniels/util_/util_get_inputs/SKILL.md",
+      "enabled": true
+    },
+    {
+      "name": "util_get_org_info",
+      "path": "daniels/util_/util_get_org_info/SKILL.md",
+      "enabled": true
+    },
+    {
+      "name": "util_get_user_info",
+      "path": "daniels/util_/util_get_user_info/SKILL.md",
+      "enabled": true
+    },
+    {
+      "name": "find-skills",
+      "path": "find-skills/SKILL.md",
+      "enabled": true
+    }
+  ]
+}

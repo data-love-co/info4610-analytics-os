@@ -1,0 +1,241 @@
+response_id,submitted,role,tenure_bucket,satisfaction_1_10,would_recommend,what_would_you_change
+R-2000,02-Jul-2026,Director,6-12 months,7,,Nobody told us we needed IT approval before the kickoff call.
+R-2001,2026-07-16,VP,2+ years,n/a,Maybe,Dashboards look nice but I cannot drill into anything.
+R-2002,06/10/2026,Director,<6 months,7,No,Tickets get closed before the issue is actually resolved.
+R-2003,Jun 2026,Individual Contributor,1-2 years,4,yes,
+R-2004,06/05/2026,Analyst,2+ years,6,No,Renewal came in 18% higher with no explanation. That is what started the conversation.
+R-2005,2026-06-13,Manager,6-12 months,5,Maybe,I would pay more for better reporting alone.
+R-2006,2026-06-17,director,1-2 years,7,no,The first two weeks were confusing. Documentation assumed we already knew the product.
+R-2007,2026-06-15,Analyst,<6 months,4,Maybe,We are paying for tiers we do not use.
+R-2008,Jul 2026,VP,6-12 months,10,Yes,Onboarding was smooth once we got assigned a real implementation contact.
+R-2009,2026-06-27,Analyst,6-12 months,5,,null
+R-2010,11-Jun-2026,VP,2+ years,7,No,Tickets get closed before the issue is actually resolved.
+R-2011,Jun 2026, Analyst,6-12 months,2,,Support responds fast but escalations disappear for days.
+R-2012,Jun 2026,VP,1-2 years,2,Maybe,Performance degrades badly when we pull more than a year of history.
+R-2013,Jun 2026,Analyst,6-12 months,2,Maybe,Support responds fast but escalations disappear for days.
+R-2014,13-Jul-2026,Manager,1-2 years,2,no,The per-seat price is hard to justify when half our seats are read-only.
+R-2015,21-Jun-2026,Analyst,<6 months,7,Yes,Nobody told us we needed IT approval before the kickoff call.
+R-2016,14-Jul-2026,Director,6-12 months,7,Maybe,First-line support reads from a script. Second-line is great.
+R-2017,2026-06-18,Individual Contributor,2+ years,8,,Our CSM is genuinely excellent and has saved this relationship twice.
+R-2018,14-Jun-2026,Analyst,6-12 months,3,No,Performance degrades badly when we pull more than a year of history.
+R-2019,Jun 2026,Manager,6-12 months,3,No,Renewal came in 18% higher with no explanation. That is what started the conversation.
+R-2020,25-Jun-2026,VP,2+ years,5,no,Dashboards look nice but I cannot drill into anything.
+R-2021,2026-07-09,Individual Contributor,1-2 years,4,yes,Dashboards look nice but I cannot drill into anything.
+R-2022,Jun 2026,VP,<6 months,2,No,null
+R-2023,2026-07-08,VP,1-2 years,8,,Rock solid for us. No complaints on uptime.
+R-2024,07-Jun-2026,VP,<6 months,7,,Value is fine. The problem is the annual commitment.
+R-2025,Jun 2026,VP,6-12 months,3,yes,We are paying for tiers we do not use.
+R-2026,Jun 2026,Manager,6-12 months,7,,Dashboards look nice but I cannot drill into anything.
+R-2027,2026-06-11,Individual Contributor,1-2 years,7,Maybe,Rock solid for us. No complaints on uptime.
+R-2028,Jul 2026,Analyst,<6 months,8,no,First-line support reads from a script. Second-line is great.
+R-2029,Jul 2026,Analyst,2+ years,-,no,N/A
+R-2030,08-Jun-2026,Analyst,6-12 months,5,no,Reporting is the weakest part. I export to Excel to do anything real.
+R-2031,2026-06-13,MANAGER,1-2 years,6,Maybe,Support responds fast but escalations disappear for days.
+R-2032,07/01/2026,Analyst,<6 months,7,,Two outages last quarter during month-end close. That is unacceptable timing.
+R-2033,10-Jul-2026,Analyst,2+ years,4,yes,Nobody told us we needed IT approval before the kickoff call.
+R-2034,03-Jul-2026,Individual Contributor,<6 months,2,no,Performance degrades badly when we pull more than a year of history.
+R-2035,07/08/2026,MANAGER,<6 months,4,yes,The first two weeks were confusing. Documentation assumed we already knew the product.
+R-2036,Jul 2026,Manager,2+ years,10,yes,Value is fine. The problem is the annual commitment.
+R-2037,Jul 2026,VP,6-12 months,7,no,Reporting is the weakest part. I export to Excel to do anything real.
+R-2038,07/07/2026,Director,<6 months,null,,Rock solid for us. No complaints on uptime.
+R-2039,06/11/2026,VP,6-12 months,8,yes,Onboarding was smooth once we got assigned a real implementation contact.
+R-2040,Jun 2026,Analyst,<6 months,4,,"Cannot schedule a recurring report to my leadership team, which is the whole job."
+R-2041,Jun 2026,Individual Contributor,<6 months,3,no,Tickets get closed before the issue is actually resolved.
+R-2042,Jun 2026,Analyst,2+ years,6,Yes,"Cannot schedule a recurring report to my leadership team, which is the whole job."
+R-2043,2026-06-02,Manager,6-12 months,,,Onboarding was smooth once we got assigned a real implementation contact.
+R-2044,2026-06-12,Manager,1-2 years,7,,Our CSM is genuinely excellent and has saved this relationship twice.
+R-2045,Jul 2026,VP,<6 months,2,,Dashboards look nice but I cannot drill into anything.
+R-2046,Jun 2026,Director,2+ years,7,Yes,First-line support reads from a script. Second-line is great.
+R-2047,2026-07-01,VP,<6 months,7,No, 
+R-2048,27-Jun-2026,Manager,1-2 years,4,No,The first two weeks were confusing. Documentation assumed we already knew the product.
+R-2049,Jun 2026,Director,1-2 years,2,Maybe,Dashboards look nice but I cannot drill into anything.
+R-2050,Jun 2026,Analyst,<6 months,3,no,Renewal came in 18% higher with no explanation. That is what started the conversation.
+R-2051,2026-06-26,Manager,1-2 years,4,,Renewal came in 18% higher with no explanation. That is what started the conversation.
+R-2052,18-Jun-2026,Manager,2+ years,4,,The per-seat price is hard to justify when half our seats are read-only.
+R-2053,Jul 2026,VP,<6 months,5,,Performance degrades badly when we pull more than a year of history.
+R-2054,Jun 2026,Manager,6-12 months,N/A,yes,Value is fine. The problem is the annual commitment.
+R-2055,06/06/2026,Manager,<6 months,9,Maybe,n/a
+R-2056,Jun 2026,Individual Contributor,<6 months,7,Maybe,Performance degrades badly when we pull more than a year of history.
+R-2057,06/16/2026,Manager,2+ years,2,No,The first two weeks were confusing. Documentation assumed we already knew the product.
+R-2058,2026-06-15,Director,6-12 months,2,Maybe,The per-seat price is hard to justify when half our seats are read-only.
+R-2059,07/06/2026,Director,6-12 months,4,no,I would pay more for better reporting alone.
+R-2060,Jun 2026,Individual Contributor,1-2 years,10,yes,Rock solid for us. No complaints on uptime.
+R-2061,2026-06-28,Director,6-12 months,7,no,The per-seat price is hard to justify when half our seats are read-only.
+R-2062,2026-07-10,Analyst,2+ years,7,no,Nobody told us we needed IT approval before the kickoff call.
+R-2063,07/05/2026,Individual Contributor,<6 months,7,,Onboarding was smooth once we got assigned a real implementation contact.
+R-2064,15-Jul-2026,Manager,1-2 years,9,no,Our CSM is genuinely excellent and has saved this relationship twice.
+R-2065,07/13/2026,Analyst,<6 months,7,Maybe,The per-seat price is hard to justify when half our seats are read-only.
+R-2066,17-Jun-2026,VP,1-2 years,7,yes,Reporting is the weakest part. I export to Excel to do anything real.
+R-2067,19-Jun-2026,Analyst,1-2 years,9,,Value is fine. The problem is the annual commitment.
+R-2068,07/16/2026,manager,6-12 months,5,No,The first two weeks were confusing. Documentation assumed we already knew the product.
+R-2069,08-Jun-2026,Director,2+ years,3,Yes,The per-seat price is hard to justify when half our seats are read-only.
+R-2070,06/16/2026,Individual Contributor,6-12 months,7,Maybe,We are paying for tiers we do not use.
+R-2071,27-Jun-2026, Analyst,6-12 months,7,yes,First-line support reads from a script. Second-line is great.
+R-2072,Jun 2026,vp,2+ years,10,,Our CSM is genuinely excellent and has saved this relationship twice.
+R-2073,2026-06-08,VP,<6 months,3,No,"Cannot schedule a recurring report to my leadership team, which is the whole job."
+R-2074,2026-06-06,Manager,2+ years,10,Maybe,Value is fine. The problem is the annual commitment.
+R-2075,06/08/2026,Manager,<6 months,3,Maybe,Two outages last quarter during month-end close. That is unacceptable timing.
+R-2076,25-Jun-2026,Manager,1-2 years,2,,I would pay more for better reporting alone.
+R-2077,06/06/2026,VP,<6 months,8,Yes,Onboarding was smooth once we got assigned a real implementation contact.
+R-2078,2026-06-09, Manager,<6 months,3,,n/a
+R-2079,01-Jun-2026,Analyst,1-2 years,3,Yes,The per-seat price is hard to justify when half our seats are read-only.
+R-2080,22-Jun-2026,VP,2+ years,6,yes,Setup took three weeks longer than we were told it would.
+R-2081,2026-06-16,Analyst,2+ years,2,Yes,The first two weeks were confusing. Documentation assumed we already knew the product.
+R-2082,13-Jul-2026,Manager,6-12 months,5,Yes,We are paying for tiers we do not use.
+R-2083,30-Jun-2026,VP,6-12 months,7,yes,N/A
+R-2084,15-Jun-2026,Individual Contributor,2+ years,2,,Dashboards look nice but I cannot drill into anything.
+R-2085,06/14/2026,Director,6-12 months,5,no,Reporting is the weakest part. I export to Excel to do anything real.
+R-2086,Jul 2026,Director,1-2 years,3,Yes,Two outages last quarter during month-end close. That is unacceptable timing.
+R-2087,2026-07-09,Analyst,1-2 years,8,Yes,First-line support reads from a script. Second-line is great.
+R-2088,07/02/2026,Analyst,<6 months,7,Maybe,The first two weeks were confusing. Documentation assumed we already knew the product.
+R-2089,Jun 2026,Manager,1-2 years,8,no,
+R-2090,Jun 2026,Individual Contributor,1-2 years,7,,Tickets get closed before the issue is actually resolved.
+R-2091,2026-07-08,Manager,2+ years,8,,Value is fine. The problem is the annual commitment.
+R-2092,2026-07-13,Director,2+ years,7,No,Rock solid for us. No complaints on uptime.
+R-2093,2026-06-12,vp,6-12 months,6,Maybe,I would pay more for better reporting alone.
+R-2094,07/11/2026,Manager,2+ years,6,No,"Cannot schedule a recurring report to my leadership team, which is the whole job."
+R-2095,07-Jun-2026,VP,1-2 years,2,yes,The first two weeks were confusing. Documentation assumed we already knew the product.
+R-2096,06/07/2026,INDIVIDUAL CONTRIBUTOR,2+ years,9,Yes,Rock solid for us. No complaints on uptime.
+R-2097,Jun 2026,Director,2+ years,4,,I would pay more for better reporting alone.
+R-2098,Jul 2026,Director,6-12 months,4,Yes,Reporting is the weakest part. I export to Excel to do anything real.
+R-2099,Jun 2026,Individual Contributor,1-2 years,4,No,Setup took three weeks longer than we were told it would.
+R-2100,06/18/2026,Director,1-2 years,6,Maybe,We are paying for tiers we do not use.
+R-2101,07/10/2026,Analyst,6-12 months,6,No,Dashboards look nice but I cannot drill into anything.
+R-2102,07/03/2026,Analyst,2+ years,6,No,The first two weeks were confusing. Documentation assumed we already knew the product.
+R-2103,18-Jun-2026,Analyst,6-12 months,4,yes,The per-seat price is hard to justify when half our seats are read-only.
+R-2104,06/18/2026,Individual Contributor,1-2 years, ,no,Performance degrades badly when we pull more than a year of history.
+R-2105,Jul 2026,Individual Contributor,1-2 years,3,Maybe,Dashboards look nice but I cannot drill into anything.
+R-2106,Jun 2026, Individual Contributor,1-2 years,6,No,-
+R-2107,07/13/2026,manager,1-2 years,7,no,Onboarding was smooth once we got assigned a real implementation contact.
+R-2108,2026-06-14,Analyst,2+ years,3,no,Renewal came in 18% higher with no explanation. That is what started the conversation.
+R-2109,Jun 2026,Manager,2+ years,9,yes,Onboarding was smooth once we got assigned a real implementation contact.
+R-2110,14-Jun-2026,Director,1-2 years,-,,Setup took three weeks longer than we were told it would.
+R-2111,2026-07-06,Analyst,<6 months,5,,Renewal came in 18% higher with no explanation. That is what started the conversation.
+R-2112,07/15/2026,Analyst,2+ years,3,No,I would pay more for better reporting alone.
+R-2113,06/18/2026,Analyst,1-2 years,6,,Performance degrades badly when we pull more than a year of history.
+R-2114,Jun 2026,Individual Contributor,1-2 years,7,yes,Our CSM is genuinely excellent and has saved this relationship twice.
+R-2115,2026-06-06,Director,6-12 months,5,No,I would pay more for better reporting alone.
+R-2116,2026-06-27,Director,6-12 months,10,yes,Our CSM is genuinely excellent and has saved this relationship twice.
+R-2117,10-Jul-2026,Individual Contributor,6-12 months,5,Yes,"Cannot schedule a recurring report to my leadership team, which is the whole job."
+R-2118,07/10/2026,VP,2+ years,4,No,Two outages last quarter during month-end close. That is unacceptable timing.
+R-2119,06/08/2026,manager,2+ years, ,,Rock solid for us. No complaints on uptime.
+R-2120,16-Jul-2026,VP,<6 months,8,No, 
+R-2121,Jun 2026,Manager,<6 months,6,Maybe,We are paying for tiers we do not use.
+R-2122,Jun 2026,ANALYST,2+ years,5,no,Reporting is the weakest part. I export to Excel to do anything real.
+R-2123,07-Jul-2026,VP,6-12 months,2,,The first two weeks were confusing. Documentation assumed we already knew the product.
+R-2124,Jun 2026,Manager,6-12 months,7,,We are paying for tiers we do not use.
+R-2125,21-Jun-2026,VP,6-12 months,10,,Our CSM is genuinely excellent and has saved this relationship twice.
+R-2126,17-Jun-2026,Analyst,2+ years,3,Yes,Renewal came in 18% higher with no explanation. That is what started the conversation.
+R-2127,2026-06-27,Individual Contributor,2+ years,2,yes,Dashboards look nice but I cannot drill into anything.
+R-2128,04-Jul-2026,VP,<6 months,10,, 
+R-2129,07/04/2026,Analyst,2+ years,2,,null
+R-2130,07/15/2026,analyst,2+ years,10,Maybe,Rock solid for us. No complaints on uptime.
+R-2131,2026-06-29,Individual Contributor,<6 months,6,Yes,Support responds fast but escalations disappear for days.
+R-2132,2026-06-27,Director,1-2 years,7,Maybe,Reporting is the weakest part. I export to Excel to do anything real.
+R-2133,Jul 2026,Manager,2+ years,4,,Reporting is the weakest part. I export to Excel to do anything real.
+R-2134,2026-06-19,Individual Contributor,<6 months,7,Yes,Support responds fast but escalations disappear for days.
+R-2135,Jun 2026,Director,6-12 months,8,No,Onboarding was smooth once we got assigned a real implementation contact.
+R-2136,2026-07-14,Individual Contributor,6-12 months,7,,The per-seat price is hard to justify when half our seats are read-only.
+R-2137,06/10/2026,Analyst,6-12 months,5,No,
+R-2138,Jun 2026,Individual Contributor,6-12 months,10,No,Our CSM is genuinely excellent and has saved this relationship twice.
+R-2139,2026-07-04,Individual Contributor,<6 months,4,Maybe,
+R-2140,2026-06-11,VP,1-2 years,5,No,Reporting is the weakest part. I export to Excel to do anything real.
+R-2141,07/07/2026,Director,<6 months,6,,The per-seat price is hard to justify when half our seats are read-only.
+R-2142,Jul 2026,Manager,<6 months,9,yes,null
+R-2143,2026-06-17,Individual Contributor,<6 months,2,no,The first two weeks were confusing. Documentation assumed we already knew the product.
+R-2144,Jun 2026,Manager,6-12 months,5,Yes,Setup took three weeks longer than we were told it would.
+R-2145,06/17/2026,Director,2+ years,3,yes,Reporting is the weakest part. I export to Excel to do anything real.
+R-2146,2026-07-13,Manager ,6-12 months,2,Yes,Dashboards look nice but I cannot drill into anything.
+R-2147,Jul 2026,Director,1-2 years,5,No,"Cannot schedule a recurring report to my leadership team, which is the whole job."
+R-2148,2026-06-23,Director,6-12 months,2,Yes,Reporting is the weakest part. I export to Excel to do anything real.
+R-2149,04-Jun-2026,Individual Contributor,1-2 years,4,no,Performance degrades badly when we pull more than a year of history.
+R-2150,29-Jun-2026,Analyst,1-2 years,2,Yes,The first two weeks were confusing. Documentation assumed we already knew the product.
+R-2151,Jun 2026,VP,2+ years,3,No,Nobody told us we needed IT approval before the kickoff call.
+R-2152,07/04/2026,Director,6-12 months, ,yes,Our CSM is genuinely excellent and has saved this relationship twice.
+R-2153,01-Jun-2026,Analyst,6-12 months,9,,Value is fine. The problem is the annual commitment.
+R-2154,Jul 2026,Individual Contributor,6-12 months,2,No,The per-seat price is hard to justify when half our seats are read-only.
+R-2155,07/07/2026,Individual Contributor,2+ years,2,,Setup took three weeks longer than we were told it would.
+R-2156,07/10/2026,vp,6-12 months,6,no,The first two weeks were confusing. Documentation assumed we already knew the product.
+R-2157,Jun 2026,Individual Contributor,2+ years,6,Maybe,I would pay more for better reporting alone.
+R-2158,06/21/2026,Manager,1-2 years,7,Yes,Reporting is the weakest part. I export to Excel to do anything real.
+R-2159,16-Jul-2026,VP,<6 months,5,Maybe,Reporting is the weakest part. I export to Excel to do anything real.
+R-2160,09-Jul-2026,Manager,<6 months,2,No,The first two weeks were confusing. Documentation assumed we already knew the product.
+R-2161,07/08/2026,VP,2+ years,3,Maybe,Performance degrades badly when we pull more than a year of history.
+R-2162,2026-07-08,DIRECTOR,6-12 months,2,yes,Nobody told us we needed IT approval before the kickoff call.
+R-2163,2026-06-08,Director,2+ years,6,Maybe,"Cannot schedule a recurring report to my leadership team, which is the whole job."
+R-2164,Jul 2026,Manager,6-12 months,6,no,Two outages last quarter during month-end close. That is unacceptable timing.
+R-2165,06/19/2026,Manager,<6 months,4,,"Cannot schedule a recurring report to my leadership team, which is the whole job."
+R-2166,2026-06-28,Manager,2+ years,3,Yes,"Cannot schedule a recurring report to my leadership team, which is the whole job."
+R-2167,2026-07-12,Director,<6 months,7,No,"Cannot schedule a recurring report to my leadership team, which is the whole job."
+R-2168,2026-06-04,Director,6-12 months,2,Yes,Tickets get closed before the issue is actually resolved.
+R-2169,2026-06-29,individual contributor,2+ years,6,Yes,null
+R-2170,16-Jul-2026,Director,6-12 months,2,,Nobody told us we needed IT approval before the kickoff call.
+R-2171,2026-06-10,Individual Contributor,6-12 months,2,Yes,Dashboards look nice but I cannot drill into anything.
+R-2172,06/04/2026,ANALYST,2+ years,7,No,
+R-2173,06/02/2026,VP,<6 months,7,No,We are paying for tiers we do not use.
+R-2174,2026-06-04,Analyst,1-2 years, ,No,Tickets get closed before the issue is actually resolved.
+R-2175,Jul 2026,Individual Contributor,6-12 months,10,Maybe,Onboarding was smooth once we got assigned a real implementation contact.
+R-2176,Jun 2026,Individual Contributor,6-12 months,10,Maybe,First-line support reads from a script. Second-line is great.
+R-2177,05-Jun-2026,Manager,1-2 years,7,,Performance degrades badly when we pull more than a year of history.
+R-2178,Jun 2026,Analyst,<6 months,9,yes,Our CSM is genuinely excellent and has saved this relationship twice.
+R-2179,Jun 2026,VP,6-12 months,5,no,I would pay more for better reporting alone.
+R-2180,Jun 2026,Analyst,<6 months,3,no,Dashboards look nice but I cannot drill into anything.
+R-2181,03-Jul-2026,Director,1-2 years,5,yes,I would pay more for better reporting alone.
+R-2182,Jun 2026,Manager,<6 months,8,,Value is fine. The problem is the annual commitment.
+R-2183,13-Jun-2026,Director,6-12 months,2,Yes,Reporting is the weakest part. I export to Excel to do anything real.
+R-2184,06/07/2026,VP,1-2 years,2,no,N/A
+R-2185,2026-07-05,Individual Contributor,<6 months,5,Maybe,Performance degrades badly when we pull more than a year of history.
+R-2186,2026-07-02,Analyst,1-2 years,6,Maybe,I would pay more for better reporting alone.
+R-2187,Jun 2026,Analyst,<6 months,6,No,Dashboards look nice but I cannot drill into anything.
+R-2188,2026-06-28,VP,<6 months,7,Maybe,null
+R-2189,07/03/2026,Individual Contributor,2+ years,7,Yes,First-line support reads from a script. Second-line is great.
+R-2190,2026-07-07,Director,2+ years,3,Yes,Two outages last quarter during month-end close. That is unacceptable timing.
+R-2191,Jul 2026,Analyst,1-2 years,7,Yes,
+R-2192,Jul 2026,Analyst,<6 months,9,Maybe,Onboarding was smooth once we got assigned a real implementation contact.
+R-2193,10-Jun-2026,director,1-2 years,2,,Reporting is the weakest part. I export to Excel to do anything real.
+R-2194,07/08/2026,Manager,2+ years,5,No,Dashboards look nice but I cannot drill into anything.
+R-2195,Jul 2026,VP,<6 months,9,No,Rock solid for us. No complaints on uptime.
+R-2196,2026-06-19,Manager,2+ years,2,,"Cannot schedule a recurring report to my leadership team, which is the whole job."
+R-2197,2026-06-09,Director,<6 months,2,Maybe,Setup took three weeks longer than we were told it would.
+R-2198,Jun 2026,VP,<6 months,4,yes,Setup took three weeks longer than we were told it would.
+R-2199,11-Jul-2026,Manager,6-12 months,3,Maybe,Reporting is the weakest part. I export to Excel to do anything real.
+R-2200,15-Jun-2026,VP,1-2 years,9,no,Rock solid for us. No complaints on uptime.
+R-2201,04-Jul-2026,Individual Contributor,6-12 months,5,Maybe,The per-seat price is hard to justify when half our seats are read-only.
+R-2202,06/26/2026,INDIVIDUAL CONTRIBUTOR,1-2 years,2,,Support responds fast but escalations disappear for days.
+R-2203,01-Jul-2026,Individual Contributor,6-12 months,3,yes,N/A
+R-2204,19-Jun-2026,Analyst,<6 months,7,no,Two outages last quarter during month-end close. That is unacceptable timing.
+R-2205,Jul 2026,Analyst,2+ years,4,no,Two outages last quarter during month-end close. That is unacceptable timing.
+R-2206,07/16/2026,Director,<6 months,2,Maybe,We are paying for tiers we do not use.
+R-2207,24-Jun-2026,VP,6-12 months,3,yes,The first two weeks were confusing. Documentation assumed we already knew the product.
+R-2208,07/16/2026,Individual Contributor,6-12 months,7,Maybe,Support responds fast but escalations disappear for days.
+R-2209,28-Jun-2026,Individual Contributor,<6 months,5,no,"Cannot schedule a recurring report to my leadership team, which is the whole job."
+R-2210,Jun 2026, Manager,6-12 months,2,yes,Renewal came in 18% higher with no explanation. That is what started the conversation.
+R-2211,2026-06-14,Director,<6 months,4,no,Setup took three weeks longer than we were told it would.
+R-2212,30-Jun-2026,Analyst,<6 months,7,no,Onboarding was smooth once we got assigned a real implementation contact.
+R-2213,2026-07-03,ANALYST,6-12 months,7,yes,Nobody told us we needed IT approval before the kickoff call.
+R-2214,Jun 2026,Director,2+ years,2,No,Reporting is the weakest part. I export to Excel to do anything real.
+R-2215,06/29/2026,Analyst,2+ years,4,No,Performance degrades badly when we pull more than a year of history.
+R-2216,06/28/2026,Director,<6 months,8,,Onboarding was smooth once we got assigned a real implementation contact.
+R-2217,07/10/2026,Manager,<6 months,5,Yes,Setup took three weeks longer than we were told it would.
+R-2218,Jul 2026,VP ,1-2 years,7,no,Nobody told us we needed IT approval before the kickoff call.
+R-2219,07/13/2026,director,2+ years,6,Maybe,The first two weeks were confusing. Documentation assumed we already knew the product.
+R-2220,07/03/2026,Individual Contributor,6-12 months,9,Yes,Value is fine. The problem is the annual commitment.
+R-2221,2026-06-06,Individual Contributor,2+ years,7,,Value is fine. The problem is the annual commitment.
+R-2222,Jun 2026,VP,1-2 years,N/A,yes,"Cannot schedule a recurring report to my leadership team, which is the whole job."
+R-2223,2026-07-13,VP,6-12 months,6,Yes,Two outages last quarter during month-end close. That is unacceptable timing.
+R-2224,2026-06-27,Director,1-2 years,4,no,I would pay more for better reporting alone.
+R-2225,06/28/2026,VP,1-2 years,4,,Nobody told us we needed IT approval before the kickoff call.
+R-2226,2026-07-10,VP,2+ years,9,Yes,Our CSM is genuinely excellent and has saved this relationship twice.
+R-2227,08-Jun-2026,Manager,<6 months,9,,Value is fine. The problem is the annual commitment.
+R-2228,2026-06-23,VP,1-2 years,5,no,
+R-2229,06/29/2026,VP,6-12 months,2,Maybe,The per-seat price is hard to justify when half our seats are read-only.
+R-2230,07-Jun-2026,Director,<6 months,7,Yes,Renewal came in 18% higher with no explanation. That is what started the conversation.
+R-2231,2026-07-07,Manager,6-12 months,7,No,Performance degrades badly when we pull more than a year of history.
+R-2232,14-Jun-2026,Individual Contributor,<6 months,2,yes,The per-seat price is hard to justify when half our seats are read-only.
+R-2233,03-Jun-2026,VP,2+ years,6,,Support responds fast but escalations disappear for days.
+R-2234,2026-06-21,Individual Contributor,<6 months,4,No,Setup took three weeks longer than we were told it would.
+R-2235,07/04/2026,VP,6-12 months,4,Maybe,Nobody told us we needed IT approval before the kickoff call.
+R-2236,2026-06-22,Director ,2+ years,2,Yes,We are paying for tiers we do not use.
+R-2237,06/21/2026,Manager,6-12 months,2,Maybe,I would pay more for better reporting alone.
+R-2238,Jun 2026,Analyst,1-2 years,4,Maybe,We are paying for tiers we do not use.
+R-2239,07-Jun-2026,Director,1-2 years,6,yes,We are paying for tiers we do not use.

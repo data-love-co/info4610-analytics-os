@@ -1,0 +1,6 @@
+role,current_headcount,fully_loaded_salary_usd,annual_attrition_rate,tickets_per_fte_per_week,ramp_time_weeks,cost_to_hire_usd,overtime_multiplier
+Support Rep,14,74240.00,18%,65.7,8,7929.20,1.5
+Senior Support Rep,19,99840.00,11%,50.1,8,9737.21,1.5
+Team Lead,8,"$122,880.00",7%,53.0,4,10837.52,1.5
+Implementation Eng,5,"$151,040.00",13%,47.0,8,"$8,512.48",1.5
+Account Manager,11,113920.00,15%,69.0,6,12383.95,1.5

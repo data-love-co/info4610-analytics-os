@@ -1,0 +1,196 @@
+month,region,channel,units_sold,revenue_usd,returns_usd,notes
+01-Jan-2022, West,Online,184,73371.92,424.56,
+2022-01-01,Midwest,Online,140,59031.09,1691.03,
+Jan 2022,Northeast,Direct,151,69263.62,"$2,528.72",partial month
+01-Jan-2022,South,Partner,98,46986.62,1188.19,restated
+02/01/2022,West,Online,190,"$82,177.01",1945.17,bulk order
+2022-02-01,Midwest,Online,121,61256.54,1125.52,
+Feb 2022,Northeast,Partner,139,66815.74,1511.51,restated
+2022-13-01,South,Direct,114,"$55,538.53",1854.74,
+2022-03-01,West,Online,230,93525.20,1007.81,partial month
+01-Mar-2022,Midwest,Partner,130,64445.01,1207.68,
+Mar 2022,Northeast,Direct,174,82418.64,837.26,bulk order
+03/01/2022,South,Online,126,"$56,399.57",1356.74,bulk order
+04/01/2022,West,Direct,273,111389.11,1826.15,restated
+01-Apr-2022,Midwest,Direct,166,null,2578.80,partial month
+2022-04-01,Northeast,Direct,160,81733.60,850.79,
+2022-04-01,South,Online,146,"$71,037.16",1275.42,
+2022-05-01,West,Online,261,"$122,909.73","$2,557.87",
+May 2022,Midwest,Partner,146,"$74,813.73",$998.11,bulk order
+05/01/2022,Northeast,Direct,233,97168.00,3662.89,restated
+2022-05-01,South,Partner,181,-,1583.48,
+06/01/2022,West,Direct,241,"$121,498.86",2484.66,bulk order
+2022-06-01,Midwest,Online,151,76756.19,2269.56,
+Jun 2022,Northeast,Partner,244,114066.35,2938.80,
+06/01/2022,South,Partner,171,78825.62,2209.98,
+01-Jul-2022,West,Online,298,128451.21,1008.96,partial month
+07/01/2022,Midwest,Direct,182,"$88,156.80","$1,085.44",partial month
+Jul 2022,NORTHEAST,Partner,234,"$109,598.58",2084.06,
+2022-07-01,South,Online,199,"$78,840.74",2469.14,bulk order
+Aug 2022,West,Partner,220,"$97,089.14","$1,301.11",
+08/01/2022,Midwest,Online,205,"$88,172.41",516.95,
+01-Aug-2022,Northeast,Direct,250,"$110,383.40",3075.19,
+08/01/2022,South,Direct,184,"$84,004.03",2836.08,
+Sep 2022,West,Direct,290,"$112,461.75",2877.49,bulk order
+2022-09-01,Midwest,Direct,182,"$80,076.79",2036.97,
+Sep 2022, Northeast,Partner,167,86147.60,2275.15,partial month
+Sep 2022,South,Online,200,77213.08,665.68,partial month
+2022-10-01, West,Direct,201,"$99,370.37","$2,923.37",restated
+2022-10-01,Midwest,Direct,140,65842.86,"$1,327.46",
+Oct 2022,Northeast,Direct,205,96793.22,2626.36,partial month
+01-Oct-2022,South,Online,146,66649.49,893.18,
+2022-11-01,West,Direct,212,91165.17,$936.29,
+01-Nov-2022,MIDWEST,Direct,183,74031.64,1121.58,
+Nov 2022,Northeast,Direct,173,"$88,953.70",1315.43,
+01-Nov-2022,South,Partner,115,"$60,126.57",1646.23,partial month
+Dec 2022,West,Direct,192,"$84,468.62",879.56,
+2022-12-01, Midwest,Direct,135,"$61,980.34",958.29,
+Dec 2022,NORTHEAST,Online,134,64950.99,2044.42,partial month
+12/01/2022,South,Partner,128,59449.22,2354.32,bulk order
+2023-01-01,West,Direct,205,87446.66,679.34,
+2023-01-01,Midwest,Partner,152,"$59,230.16",832.57,
+01-Jan-2023,Northeast,Direct,185,"$80,178.21",2150.47,restated
+2023-01-01,South,Online,111,"$55,861.60",583.05,
+02/01/2023,West,Partner,179,77595.79,1153.94,partial month
+01-Feb-2023,Midwest,Direct,130,65562.82,1254.86,bulk order
+2023-02-01,Northeast,Direct,186,"$85,396.86",1359.32,bulk order
+02/01/2023,South,Online,129,58443.18,2246.22,
+Mar 2023,West,Partner,246,"$104,945.72",3970.87,partial month
+03/01/2023,Midwest,Online,157,64034.91,"$2,163.24",bulk order
+2023-03-01,Northeast,Online,202,87525.36,695.53,restated
+03/01/2023,South,Online,171,"$72,310.15","$2,795.46",partial month
+2023-04-01,West,Direct,234,"$113,285.17",1896.93,restated
+Apr 2023,Midwest,Partner,-14,81610.81,$454.29,bulk order
+Apr 2023,northeast,Partner,204,104177.22,2544.56,
+04/01/2023,South,Partner,136,64368.53,635.75,
+01-May-2023, West,Partner,297,113670.29,4188.22,
+May 2023, Midwest,Online,183,"$89,224.68",3228.51,
+01-May-2023,Northeast,Partner,242,108230.31,"$1,435.02",
+05/01/2023,South,Partner,184, ,1092.83,bulk order
+2023-06-01,West,Online,296,149540.37,3599.09,
+2023-06-01,Midwest,Direct,243,96115.86,996.57,partial month
+2023-06-01,Northeast,Direct,224,112133.32,2799.53,
+06/01/2023,South,Online,189,82324.05,3206.96,
+07/01/2023,West,Online,n/a,130807.69,1576.68,
+2023-07-01,Midwest,Direct,221,101416.36,"$3,075.61",
+2023-07-01,Northeast,Partner,null,103160.38,1862.74,
+07/01/2023,south,Partner,238,93061.02,3018.72,
+2023-08-01,West,Online,421,"$162,358.53",6297.11,restated
+Aug 2023,Midwest,Online,213,107566.03,3384.73,restated
+Aug 2023,Northeast,Direct,330,127722.43,932.59,
+01-Aug-2023,South,Partner,195,84715.35,1905.24,partial month
+01-Aug-2023,South,Partner,195,84715.35,1905.24,partial month
+01-Aug-2023,South,Partner,195,84715.35,1905.24,partial month
+01-Sep-2023,West,Direct,330,136166.32,2059.00,
+2023-09-01,Midwest,Online,181,"$91,941.40",3356.22,partial month
+09/01/2023,Northeast,Online,312,"$124,099.54",1781.34,
+Sep 2023,South,Online,157,81509.96,432.69,
+2023-10-01,West,Partner,241,"$113,874.64",886.95,
+2023-10-01,Midwest,Partner,194,80709.95,1639.51,
+2023-10-01,Northeast,Direct,232,114908.06,1913.08,
+10/01/2023,SOUTH,Partner,140,"$65,632.84",1224.86,restated
+Nov 2023,West,Direct,233,"$112,312.45",3504.21,
+11/01/2023,Midwest,Partner,158,81212.20,"$2,490.67",restated
+01-Nov-2023,Northeast,Online,219,"$90,120.27",2477.11,
+Nov 2023,South,Partner,139,61171.80,2120.24,restated
+01-Dec-2023,West,Partner,237,91118.31,2866.70,
+01-Dec-2023, Midwest,Online,160,65641.64,"$2,601.91",restated
+2023-12-01,Northeast,Online,209,"$92,255.73",$471.42,
+2023-12-01,South,Partner,118,61301.44,342.55,
+01-Jan-2024,West,Partner,176,88280.86,3390.44,
+01/01/2024,Midwest,Online,153,"$73,061.03",1290.39,partial month
+2024-01-01,Northeast,Online,185,"$83,936.61",1981.48,bulk order
+01-Jan-2024,South,Partner,143,60787.43,597.32,bulk order
+01-Feb-2024,West,Direct,200,98196.34,688.59,restated
+Feb 2024,Midwest,Online,156,"$77,145.80",1578.94,partial month
+2024-02-01,Northeast,Online,174,0,1490.04,partial month
+01-Feb-2024,South,Partner,133,59878.90,1337.66,
+01-Mar-2024,West,Online,237,"$97,635.48",899.08,
+2024-03-01,MIDWEST,Online,186,"$76,210.69",2483.86,
+2024-03-01,Northeast,Direct,209,"$96,224.91",3117.91,partial month
+2024-03-01,South,Partner,172,"$72,707.01",920.24,bulk order
+01-Apr-2024,west,Partner,322,123168.82,4751.02,
+Apr 2024,Midwest,Partner,191,88638.66,3146.56,
+01-Apr-2024,Northeast,Online,222,108582.56,3227.62,
+01-Apr-2024,South,Online,149,74329.36,1512.10,
+May 2024,West,Direct,317,"$138,794.26",4920.96,bulk order
+2024-05-01,Midwest,Direct,242,"$93,793.51",1508.84,
+2024-05-01,Northeast,Partner,269,129316.06,"$4,293.05",partial month
+May 2024,South,Partner,217,86704.21,1158.01,partial month
+2024-06-01,West,Partner,1158,"$558,816.45",11964.44,
+2024-06-01,Midwest,Online,205,"$95,115.05","$1,845.47",
+06/01/2024,Northeast,Direct,400,"$152,280.35",2122.81,
+06/01/2024,South,Partner,270,105577.59,3594.52,bulk order
+01-Jul-2024,West,Online,329,"$131,425.76",2537.39,partial month
+07/01/2024,Midwest,Partner,228,"$108,003.73",3236.33,
+Jul 2024,Northeast,Partner,268,126846.14,"$3,638.16",
+01-Jul-2024,South,Direct,203,"$96,525.05",3124.91,
+Aug 2024,West,Direct,291,139898.86,3062.88,
+08/01/2024,Midwest,Direct,238,"$117,268.22",1853.77,bulk order
+Aug 2024,Northeast,Online,264,127465.01,2471.02,
+2024-08-01, South,Partner,215,90484.64,2996.21,bulk order
+01-Sep-2024,West,Partner,317,139154.06,3205.69,bulk order
+01-Sep-2024,Midwest,Partner,257,107987.62,3400.16,
+Sep 2024,northeast,Partner,296,"$132,821.63","$4,501.41",restated
+2024-09-01,South,Partner,227,88384.28,1112.00,
+10/01/2024,West,Partner,294,126506.18,3610.41,bulk order
+01-Oct-2024,Midwest,Direct,216,99858.11,2531.12,partial month
+01-Oct-2024,Northeast,Online,218,"$106,140.27",2151.04,
+10/01/2024,South,Online,169,"$76,959.89",2599.99,restated
+11/01/2024,West,Partner,264,118396.22,3906.24,restated
+2024-11-01,Midwest,Online,127,"$65,747.76",$505.66,bulk order
+01-Nov-2024,northeast,Direct,242,93689.76,1842.46,
+2024-11-01,South,Partner,163,"$68,581.47",373.23,partial month
+2024-12-01,West,Direct,228,98025.92,1436.54,
+12/01/2024,Midwest,Online,185,78367.68,$892.75,
+2024-12-01,Northeast,Direct,196,90152.39,953.57,restated
+Dec 2024,South,Direct,-,67384.11,2465.89,partial month
+01/01/2025,West,Partner,N/A,105902.74,3697.48,
+01-Jan-2025,Midwest,Direct,155,1.2M,2547.70,restated
+01-Jan-2025,Northeast,Direct,184,"$87,058.60",2152.15,
+Jan 2025,South,Partner,151,"$61,681.07",2449.96,partial month
+Jan 2025,South,Partner,151,"$61,681.07",2449.96,partial month
+2025-02-01,West,Partner,237,"$108,996.01",1732.38,restated
+Feb 2025,Midwest ,Online,194,76926.27,2726.86,bulk order
+01-Feb-2025,Northeast,Partner,221,"$94,563.00",3439.59,restated
+Feb 2025,South,Direct,185,73163.36,"$2,595.40",partial month
+03/01/2025,West,Online,247,"$114,525.97",3210.12,restated
+Mar 2025,Midwest,Direct,191,78547.10,698.85,
+2025-03-01,Northeast,Online,263,101564.27,3455.91,
+01-Mar-2025,South,Online,29,"$12,454.39",395.60,
+Apr 2025,West,Direct,288,127750.20,3758.56,
+04/01/2025,Midwest,Direct,N/A,83684.97,2482.61,bulk order
+01-Apr-2025,Northeast,Partner,253,"$115,198.37",2997.33,bulk order
+04/01/2025,South,Direct,167,"$85,741.76","$1,605.22",
+05/01/2025,West,Partner,396,160153.67,4825.21,restated
+May 2025,Midwest,Direct,284,121447.87,2530.72,
+2025-05-01,Northeast,Online,337,129506.60,3900.04,partial month
+2025-05-01,South,Online,230,96010.22,570.95,
+01-Jun-2025,West,Partner,294,152112.64,4089.42,partial month
+06/01/2025,Midwest,Partner,291,113801.74,3236.74,bulk order
+06/01/2025,Northeast,Partner,367,"$156,108.62",3721.73,
+01-Jun-2025,South,Online,230,102185.17,2773.25,restated
+Jul 2025,West,Online,371,"$182,860.55",3750.14,
+01-Jul-2025,Midwest,Direct,245,"$109,999.31",2566.98,
+07/01/2025,Northeast,Online,367,146963.23,1550.98,
+Jul 2025,South,Online,219,96591.27,2893.03,
+Aug 2025,West,Online,323,156345.17,1052.61,
+08/01/2025,Midwest,Partner,226,-,976.94,partial month
+Aug 2025,Northeast,Direct,314,145621.46,2817.77,
+2025-08-01,South,Direct,214,"$88,765.86",3269.83,
+09/01/2025,West,Partner,282,137321.41,4765.51,
+Sep 2025,Midwest,Direct,277,"$114,385.50",4450.12,
+Sep 2025,Northeast,Online,346,138550.75,2693.52,
+01-Sep-2025,South,Online,212,"$106,883.46",3490.95,bulk order
+01-Oct-2025,West,Partner,335,"$138,918.78",5538.90,
+2025-10-01,Midwest,Online,260,102500.00,2318.99,
+01-Oct-2025,Northeast,Direct,287,117647.33,1418.51,
+01-Oct-2025,South,Partner,163,"$84,790.36","$1,996.98",
+11/01/2025,West,Online,293,"$130,366.21","$2,224.16",
+2025-11-01,Midwest,Direct,213,90473.55,3020.00,restated
+01-Nov-2025,Northeast,Direct,284,112845.70,1746.44,
+01-Nov-2025,South,Direct,179,"$80,552.45",1048.43,
+Dec 2025,West,Online,307,"$123,637.51",1293.10,partial month
+2025-12-01,Midwest,Online,181,88718.01,683.36,
+12/01/2025,Northeast,Partner,217,103298.32,3629.25,bulk order
+2025-12-01,South,Partner,158,76114.88,1949.61,

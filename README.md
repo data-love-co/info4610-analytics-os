@@ -18,8 +18,20 @@ Two goals, in order:
 
 ## Quickstart
 
-1. **Clone this repo** and open the folder in [Claude Code](https://claude.com/claude-code)
-   (CLI, desktop app, or VS Code extension), or any `AGENTS.md`-aware agent.
+1. **Open [Claude Code](https://claude.com/claude-code)** (desktop app, CLI, or VS Code extension)
+   and ask it to fetch this workspace for you. Copy this in:
+
+   > Clone https://github.com/data-love-co/info4610-analytics-os into a folder called
+   > `info4610` directly inside my user folder, then open it and follow the setup.
+
+   **Where it lands matters, for two reasons.** Put it straight in your user folder
+   (`C:\Users\<you>\info4610` on Windows, `~/info4610` on Mac), *not* in Documents, Desktop, or any
+   OneDrive or Google Drive folder. Synced drives corrupt the hidden `.git` folder, and deeply
+   nested paths trip the Windows 260-character filename limit. A short, unsynced path avoids both.
+
+   No git installed? Ask Claude to download the ZIP instead and it will handle it, or grab it
+   yourself from the green **Code** button above.
+
 2. **Say "get me started."** Bootstrap detects your OS, creates the `CLAUDE.md` link, then runs a
    short interview that builds your profile (`0_User/`) and your work context (`0_Org/`).
 3. **Put data in `5_Library/sources/raw/`** — a spreadsheet export, survey responses, meeting

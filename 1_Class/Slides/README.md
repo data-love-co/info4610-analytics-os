@@ -2,10 +2,15 @@
 
 The decks used in the two sessions.
 
-| File | Session | Slides |
+| File | Covers | Slides |
 |---|---|---|
-| `INFO4610-Session1.pptx` | Lesson 1 — frame the decision, audit the data | 18 |
-| `INFO4610-Session2.pptx` | Lesson 2 — build it, write the memo, demo it | 18 |
+| `INFO4610-Module11-95min.pptx` | The whole module in one 95-minute block | 21 |
+| `INFO4610-Session1.pptx` | Two-session version, part 1 — frame the decision, audit the data | 18 |
+| `INFO4610-Session2.pptx` | Two-session version, part 2 — build it, write the memo, demo it | 18 |
+
+**Which one did we use?** If your class ran as a single evening, it was the 95-minute deck. The two
+session decks cover the same ground more slowly, and they go deeper on the data audit, on choosing
+where to build, and on defending your work in a demo. They're worth reading either way.
 
 Both are PowerPoint files. GitHub will not preview a `.pptx`, so use the **Download** button on the
 file page.

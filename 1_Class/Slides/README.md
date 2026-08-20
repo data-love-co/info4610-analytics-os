@@ -1,6 +1,6 @@
 # Slides
 
-The decks used in the two sessions.
+The decks used in class.
 
 | File | Covers | Slides |
 |---|---|---|
@@ -12,7 +12,7 @@ The decks used in the two sessions.
 session decks cover the same ground more slowly, and they go deeper on the data audit, on choosing
 where to build, and on defending your work in a demo. They're worth reading either way.
 
-Both are PowerPoint files. GitHub will not preview a `.pptx`, so use the **Download** button on the
+These are PowerPoint files. GitHub will not preview a `.pptx`, so use the **Download** button on the
 file page.
 
 These are the presented slides. The reasoning behind each one — why a question is hard, what usually
